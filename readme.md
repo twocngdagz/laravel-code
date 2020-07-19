@@ -2,7 +2,7 @@
 
 A simple SPA using Laravel, Bootstrap and Vue
 
-- Crawl the data from [2018 PSHS NCE Passers](http://www.pshs.edu.ph/nce2019/)
+- Crawl the data from [2019 PSHS NCE Passers](http://www.pshs.edu.ph/nce2019/)
 - List the passers alphabetically and paginated by 50 records.
 - Search by name, school and division using full-text search.
 - Can add a passer.
