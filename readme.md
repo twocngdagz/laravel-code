@@ -1,4 +1,4 @@
-## About this project [test update]
+## About this project
 
 A simple SPA using Laravel, Bootstrap and Vue
 
